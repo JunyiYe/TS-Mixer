@@ -1,3 +1,7 @@
+<p align="center">
+    <img src="assets/figures/logo.png" width="130"> 
+</p>
+
 # Prediction with Time-Series Mixer for the S&P500 Index
 
 [[paper](https://ieeexplore.ieee.org/abstract/document/10148151)]
